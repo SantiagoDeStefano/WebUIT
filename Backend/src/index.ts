@@ -1,5 +1,4 @@
 import { envConfig } from './constants/config'
-
 import express from 'express'
 
 const PORT = envConfig.port
